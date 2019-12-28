@@ -1,0 +1,25 @@
+mix usage of RAM 2.3
+max usage of RAM 7.0
+CPU 0~13% usage of all processors
+
+winmine 
+Version 2019 (OS Build 1.1.6)
+Athor Bill Chamalidis
+2019 BC All Rights Reserved.
+
+wxWidgets version 3.1.3
+C++ 17
+Visual Studio 2019 (v142)
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
