@@ -1,6 +1,6 @@
 ## winmine game c++
 Version 2019 (OS Build 1.1.6)
-<h2>A 9x9 game with user interface</h2>
+<p><h2>A 9x9 game with user interface</h2></p>
 ![](img/winmine1.jpg)
 
 <h2>10 mines that you will never avoid</h2>
