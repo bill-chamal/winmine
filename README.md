@@ -18,7 +18,7 @@ Version 2019 (OS Build 1.1.6)
 - <p>Current version: 2019 (Build 1.1.6) </p>
 - <p>C++</p>
 - <p>Created in Visual Studio 2019 </p>
-- <p>Framework you will need: <a href="https://www.wxwidgets.org/">wxwidgets</a> </p>
+- <p>Framework you may need: <a href="https://www.wxwidgets.org/">wxwidgets</a> </p>
 - - <p>!!The library of the wxwidgets does not include to the project.!! It will not run unless you add it!! May this will help you <a href="https://wiki.wxwidgets.org/Microsoft_Visual_C%2B%2B_Guide">setup wxwidgets to Visual Studio</a> </p>
 - <p>Size of the project: 2.18 MB (2,289,149 bytes) </p>
 
