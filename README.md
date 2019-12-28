@@ -2,11 +2,11 @@
 Version 2019 (OS Build 1.1.6)
 <p><h2>A 9x9 game with user interface</h2></p>
 
-![](img/winmine1.jpg)
+![](img/winmine2.jpg)
 
 <h2>10 mines that you will never avoid</h2>
 
-![](img/winmine2.jpg)
+![](img/winmine44.jpg)
 
 <h2>All the game status you will need</h2>
 
