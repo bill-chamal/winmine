@@ -6,7 +6,7 @@ Version 2019 (OS Build 1.1.6)
 
 <h2>10 mines that you will never avoid</h2>
 
-![](img/winmine2.jpg)
+![](img/winmine4.jpg)
 
 <h2>All the game status you will need</h2>
 
