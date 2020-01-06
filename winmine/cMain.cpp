@@ -30,7 +30,7 @@ wxEND_EVENT_TABLE()
 int mines_stc = 10, nFieldHeight=9, nFieldWidth=9;										//*78 line refrerce to mines again*//
 int tries = 0, times_clicked = 0, times_restared = 0, times_wins = 0, mines = mines_stc, Win80 = 0, trieys_left = (nFieldHeight* nFieldWidth) - mines;
 float score;
-cMain::cMain() : wxFrame(nullptr, wxID_ANY, "winmine - 1.1.6 ", wxPoint(30, 30), wxSize(600, 600) )
+cMain::cMain() : wxFrame(nullptr, wxID_ANY, "winmine - 1.1.7 ", wxPoint(30, 30), wxSize(600, 600) )
 {
 	// Menu Bar
 	Menubar = new wxMenuBar();
@@ -227,7 +227,7 @@ void cMain::OnAbout(wxCommandEvent& event)
 	std::ostringstream onFieldHeight, onFieldWidth;
 	onFieldHeight << nFieldHeight;
 	onFieldWidth << nFieldWidth;
-	wxMessageBox("winmine "+ onFieldWidth .str()+"x"+onFieldHeight.str()+"\nVersion 2019 (OS Build 1.1.6)\nAuthor Bill Chamalidis\n2019 BC All Rights Reserved.\n\nwxWidgets version 3.1.3\nC++ 17\nVisual Studio 2019 (v142)\n\nThis program is free software: you can redistribute it and/or modify it\nunder the terms of the GNU General Public License as published by\nthe Free Software Foundation, either version 3 of the License, or any \nlater version.",
+	wxMessageBox("winmine "+ onFieldWidth .str()+"x"+onFieldHeight.str()+"\nVersion 2019 (OS Build 1.1.7)\nAuthor Bill Chamalidis\n2019 BC All Rights Reserved.\n\nwxWidgets version 3.1.3\nC++ 17\nVisual Studio 2019 (v142)\n\nThis program is free software: you can redistribute it and/or modify it\nunder the terms of the GNU General Public License as published by\nthe Free Software Foundation, either version 3 of the License, or any \nlater version.",
 		"winmine Info", wxOK);
 }
 
