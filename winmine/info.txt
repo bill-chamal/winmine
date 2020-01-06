@@ -3,7 +3,7 @@ max usage of RAM 7.0
 CPU 0~13% usage of all processors
 
 winmine 
-Version 2019 (OS Build 1.1.6)
+Version 2019 (OS Build 1.1.7)
 Athor Bill Chamalidis
 2019 BC All Rights Reserved.
 
