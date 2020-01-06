@@ -1,5 +1,5 @@
 ## winmine game c++
-Version 2019 (OS Build 1.1.6)
+Version 2019 (OS Build 1.1.7)
 <p><h2>A 9x9 game with user interface</h2></p>
 
 ![](img/winmine2.jpg)
@@ -15,12 +15,12 @@ Version 2019 (OS Build 1.1.6)
 <p> <h2> Info: </h2> </p>
 
 - <p>Name of the project: "winmine"</p>
-- <p>Current version: 2019 (Build 1.1.6) </p>
+- <p>Current version: 2019 (Build 1.1.7) </p>
 - <p>C++</p>
 - <p>Created in Visual Studio 2019 </p>
 - <p>Framework you may need: <a href="https://www.wxwidgets.org/">wxwidgets</a> </p>
 - - <p>!!The library of the wxwidgets does not include to the project.!! It will not run unless you add it!! May this will help you <a href="https://wiki.wxwidgets.org/Microsoft_Visual_C%2B%2B_Guide">setup wxwidgets to Visual Studio</a> </p>
-- <p>Working in Windows8/8.1/10 </p>
+- <p>Working in Windows 7/8/8.1/10 </p>
 - <p>Size of the project: 2.18 MB (2,289,149 bytes) </p>
 
 <p><h2>license:</h2></p>
