@@ -1,4 +1,4 @@
-## winmine game c++
+# winmine game c++
 Version 2019 (Build 1.1.7)
 <p><h2>A 9x9 game with user interface</h2></p>
 
